@@ -1,0 +1,12 @@
+# Visual Studio Code
+# https://github.com/github/gitignore/blob/master/Global/VisualStudioCode.gitignore
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/react.code-snippets
+
+
+node_modules
+package-lock.json
